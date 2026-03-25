@@ -1,1 +1,9 @@
+name: CustomWeapons
+version: 3.0
+main: me.anas.customweapons.Main
+api-version: 1.21
+author: Anas
 
+commands:
+  givecustom:
+  weapons:
