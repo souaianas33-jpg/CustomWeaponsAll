@@ -1,1 +1,7 @@
-
+cooldowns:
+  meteor: 5
+  dash: 20
+  heart: 30
+  freeze: 30
+  warden_sword: 10
+  warden_mace: 30
